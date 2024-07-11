@@ -1,2 +1,1 @@
-hi i am main 
-i want to go dev
+i am dev
